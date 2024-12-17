@@ -1,0 +1,7 @@
+﻿@model BLL.DAL.Album
+
+<tr>
+    <td>@Model.Name</td>
+    <td>@Model.ReleaseDate.ToShortDateString()</td>
+    <td>@(Model.Songs?.Count() ?? 0)</td>
+</tr>

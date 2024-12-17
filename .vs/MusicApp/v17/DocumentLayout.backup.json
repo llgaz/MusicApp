@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\MusicApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE5920E-F4E4-4CC4-AF32-ACCF7868E139}|MVC\\MVC.csproj|c:\\users\\lenovo\\musicapp\\mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FE5920E-F4E4-4CC4-AF32-ACCF7868E139}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE5920E-F4E4-4CC4-AF32-ACCF7868E139}|MVC\\MVC.csproj|c:\\users\\lenovo\\musicapp\\mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FE5920E-F4E4-4CC4-AF32-ACCF7868E139}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE5920E-F4E4-4CC4-AF32-ACCF7868E139}|MVC\\MVC.csproj|c:\\users\\lenovo\\musicapp\\mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE5920E-F4E4-4CC4-AF32-ACCF7868E139}|MVC\\MVC.csproj|solutionrelative:mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E99CA83-DD80-4E6C-9440-DB53578F243E}|BLL\\BLL.csproj|c:\\users\\lenovo\\musicapp\\bll\\dal\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E99CA83-DD80-4E6C-9440-DB53578F243E}|BLL\\BLL.csproj|solutionrelative:bll\\dal\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE5920E-F4E4-4CC4-AF32-ACCF7868E139}|MVC\\MVC.csproj|c:\\users\\lenovo\\musicapp\\mvc\\views\\songs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FE5920E-F4E4-4CC4-AF32-ACCF7868E139}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\songs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE5920E-F4E4-4CC4-AF32-ACCF7868E139}|MVC\\MVC.csproj|c:\\users\\lenovo\\musicapp\\mvc\\controllers\\songscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE5920E-F4E4-4CC4-AF32-ACCF7868E139}|MVC\\MVC.csproj|solutionrelative:mvc\\controllers\\songscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\MusicApp\\MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\MusicApp\\MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T02:54:52.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\MusicApp\\MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\MusicApp\\MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T02:54:35.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\MusicApp\\MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\MusicApp\\MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAUwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T02:54:20.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Song.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\MusicApp\\BLL\\DAL\\Song.cs",
+              "RelativeDocumentMoniker": "BLL\\DAL\\Song.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\MusicApp\\BLL\\DAL\\Song.cs",
+              "RelativeToolTip": "BLL\\DAL\\Song.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T02:09:54.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\MusicApp\\MVC\\Views\\Songs\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Songs\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\MusicApp\\MVC\\Views\\Songs\\Create.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Songs\\Create.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T01:28:28.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SongsController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\MusicApp\\MVC\\Controllers\\SongsController.cs",
+              "RelativeDocumentMoniker": "MVC\\Controllers\\SongsController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\MusicApp\\MVC\\Controllers\\SongsController.cs",
+              "RelativeToolTip": "MVC\\Controllers\\SongsController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T01:27:15.474Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

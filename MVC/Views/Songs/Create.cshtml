@@ -1,0 +1,51 @@
+﻿@model BLL.DAL.Song
+
+@{
+    ViewData["Title"] = "Create Song";
+}
+
+<h1>Create New Song</h1>
+
+<form asp-action="Create" method="post">
+    <!-- Song Title -->
+    <div class="form-group">
+        <label asp-for="Title">Song Title</label>
+        <input asp-for="Title" class="form-control" placeholder="Enter song title" required />
+        <span asp-validation-for="Title" class="text-danger"></span>
+    </div>
+
+    <!-- Duration -->
+    <div class="form-group">
+        <label asp-for="Duration">Duration</label>
+        <input asp-for="Duration" type="time" class="form-control" step="1" value="00:00:00" required />
+        <span asp-validation-for="Duration" class="text-danger"></span>
+    </div>
+
+    <!-- Dropdown for Album -->
+    <div class="form-group">
+        <label asp-for="AlbumId">Select Album</label>
+        <select asp-for="AlbumId" name="AlbumId" class="form-control" asp-items="@(new SelectList(ViewBag.Albums, "Id", "Name"))" required>
+            <option value="">-- Select Album --</option>
+        </select>
+        <span asp-validation-for="AlbumId" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary mt-2">Save</button>
+    <a asp-action="Index" class="btn btn-secondary mt-2">Back to List</a>
+</form>
+
+@if (!ViewData.ModelState.IsValid)
+{
+    <div class="alert alert-danger mt-3">
+        <ul>
+            @foreach (var key in ViewData.ModelState.Keys)
+            {
+                var errors = ViewData.ModelState[key].Errors;
+                foreach (var error in errors)
+                {
+                    <li>@error.ErrorMessage</li>
+                }
+            }
+        </ul>
+    </div>
+}

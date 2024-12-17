@@ -1,0 +1,22 @@
+﻿@model BLL.DAL.Album
+
+@{
+    ViewData["Title"] = "Create Album";
+}
+
+<h1>Create New Album</h1>
+
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label for="Name">Album Name</label>
+        <input asp-for="Name" class="form-control" placeholder="Enter album name" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label for="ReleaseDate">Release Date</label>
+        <input asp-for="ReleaseDate" type="date" class="form-control" />
+        <span asp-validation-for="ReleaseDate" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary mt-2">Save</button>
+    <a asp-action="Index" class="btn btn-secondary mt-2">Back to List</a>
+</form>
